@@ -14,6 +14,7 @@ from ..programmers import JLink, STLink, RasPi2
 MCU_LOOKUP = {
     0x003c: 'QFAAG00 (16KB)',
     0x0044: 'QFAAGC0 (16KB)',
+    0x007B: 'QFABC0  (16KB)',
     0x0083: 'QFACA00 (32KB)',
     0x0084: 'QFACA10 (32KB)'
 }
